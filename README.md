@@ -6,10 +6,10 @@
 - kimia_farma_analytics.pdf: This document contains data visualizations presented as links to Looker Studio.
 
 # SQL Tool: Google BigQuery 
-- View SQL Script
+- View SQL Script: https://github.com/danielrowin/kimia_farma_analytics/blob/main/kimia_farma_analytics.sql
 
 # Visualization Tool: Google Looker Studio 
-- View Dashboard
+- View Dashboard: https://github.com/danielrowin/kimia_farma_analytics/blob/main/kimia_farma_analytics.pdf
 
 # Dataset Source: PBI Kimia Farma x Rakamin Academy
 
